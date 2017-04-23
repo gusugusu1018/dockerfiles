@@ -1,7 +1,15 @@
 # Azure上にWebアプリをPythonで作る  
 
+## how to run
+```
+python3 main.py
+```
+
 ## pip install
-* scipy
+* numpy
+* pandas
+* flask
+* plotly
 
 ## Reference
 * [ウェブアプリケーションフレームワーク Flask を使ってみる](http://qiita.com/ynakayama/items/2cc0b1d3cf1a2da612e4)
